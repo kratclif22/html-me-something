@@ -1,0 +1,15 @@
+header {
+    padding: 10%;
+  }
+
+#headerTitle {
+    text-align: center;
+}
+
+section {
+    margin-left: 20px;
+}
+
+.section-title {
+    color: blue;
+}   
